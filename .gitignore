@@ -1,0 +1,7 @@
+# git管理から除外するディレクトリとファイルを指定
+colors/
+plugin/
+cache/
+swap/
+*.swp
+*.bak
